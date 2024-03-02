@@ -4,7 +4,7 @@
 * [Objectives](objectives.md)
 * [Curriculum Overview](curriculum-overview.md)
 * [Week 1: JavaScript Foundations](week-1-javascript-foundations/README.md)
-  * [Basics](week-1-javascript-foundations/basics.md)
+  * [JavaScript Basics](week-1-javascript-foundations/javascript-basics.md)
   * [Control Structures and Error Handling](week-1-javascript-foundations/control-structures-and-error-handling.md)
   * [Asynchronous JavaScript](week-1-javascript-foundations/asynchronous-javascript.md)
   * [Mini-project](week-1-javascript-foundations/mini-project.md)
