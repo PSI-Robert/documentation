@@ -6,6 +6,7 @@
 * [Week 1: JavaScript Foundations](week-1-javascript-foundations/README.md)
   * [JavaScript Basics](week-1-javascript-foundations/javascript-basics.md)
   * [Control Structures and Error Handling](week-1-javascript-foundations/control-structures-and-error-handling.md)
+  * [Working with Arrays and Objects](week-1-javascript-foundations/working-with-arrays-and-objects.md)
   * [Asynchronous JavaScript](week-1-javascript-foundations/asynchronous-javascript.md)
   * [Mini-project](week-1-javascript-foundations/mini-project.md)
 * [Week 2: Advanced Concepts and Ecosystem](week-2-advanced-concepts-and-ecosystem/README.md)
