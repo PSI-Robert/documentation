@@ -55,6 +55,10 @@ const greetArrow = name => `Hello, ${name}!`;
 
 **Activities**
 
-* Writing a function to greet a user
-* Convert temperatures between Celsius and Fahrenheit.
-* Count vowels in a given string.
+* Write a simple function to calculate the area of a rectangle.
+  * Formula: L x W&#x20;
+* Use comparison operators to determine the largest of three numbers.
+* Implement a simple calculator using functions and basic operators.
+* Create a function that converts temperatures between Celsius and Fahrenheit.
+  * Formula: celsius \* (9/5) + 32
+* Write a function that takes a string and returns the count of vowels in the string.
